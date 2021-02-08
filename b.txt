@@ -1,5 +1,4 @@
 hello git
-// swap a, b in c
-int temp = a;
-a = b;
-b = temp;
+# swap a, b in Python 
+a,b = b,a
+
